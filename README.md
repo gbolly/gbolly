@@ -1,10 +1,11 @@
 # Hello! 👋
-My name is Gbolahan Okerayi. I am a Software Developer/Data Engineer
+My name is Gbolahan Okerayi. I am a Software Developer
 
 ## 🔭 Summary
-- 🔭 I’m currently developing integration tools and packages that makes building ETL pipelines easier and faster. I also develop and maintain ETL pipelines .
-- 👯 I’m looking to collaborate on data engineering projects, full-stack projects and fleshing out new ideas(entrpreneurship).
-- 💬 Ask me about anything software development, Python, entrepreneurship, data engineering, life, business, football and video games.
+- 👨‍💻 I am working on various web and mobile application projects that enhance business productivity and profitability.
+- 🔭 I have an interest in developing and working on tools and packages for ETL pipelines.
+- 👯 I’m looking to collaborate on full-stack projects, data engineering-related projects and fleshing out new ideas(entrepreneurship).
+- 💬 Ask me about anything software development, entrepreneurship, data engineering, life, business, football and video games.
 
 ## 🔍  Where to find me
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/gbolahan-okerayi-a008a77b/)
